@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2025-10-08",
   "main": "src/index.ts",
-  "name": "openauth-template",
+  "name": "git",
   "upload_source_maps": true,
   "kv_namespaces": [
     {
